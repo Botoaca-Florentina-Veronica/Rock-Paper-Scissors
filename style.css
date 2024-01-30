@@ -7,6 +7,9 @@
     display: flex;
 }
 
+html {
+  zoom: 110%;
+}
 
 /****************    GAME AREA   ********************/
 .gameArea{
